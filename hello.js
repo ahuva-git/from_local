@@ -11,4 +11,5 @@ const funcMaster = () =>{
 }
 
 const func3 = () =>{
+    return "change from feature1"
 }
