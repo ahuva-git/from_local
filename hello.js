@@ -9,3 +9,6 @@ const func2 = () =>{
 const funcMaster = () =>{
     
 }
+
+const func3 = () =>{
+}
