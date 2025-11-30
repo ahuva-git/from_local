@@ -12,3 +12,6 @@ const funcMaster = () =>{
 
 const func3 = () =>{
 }
+
+const feature3Func = () =>{
+}
