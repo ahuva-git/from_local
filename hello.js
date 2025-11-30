@@ -17,3 +17,6 @@ const func3 = () =>{
 const newFunc = () =>{
     return "newFunc"
 }
+
+const feature3Func = () =>{
+}
