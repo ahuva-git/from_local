@@ -12,3 +12,7 @@ const funcMaster = () =>{
 
 const func3 = () =>{
 }
+
+const newFunc = () =>{
+    return "newFunc"
+}
